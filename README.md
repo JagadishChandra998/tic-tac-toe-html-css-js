@@ -1,2 +1,2 @@
-# tic-tac-toe-html-css-js
-"A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This project features a user-friendly interface, basic game logic, and a responsive design."
+# Tic-Tac-Toe Game
+A classic Tic-Tac-Toe game created using HTML, CSS, and JavaScript. Players take turns marking X or O on a 3x3 grid, with the goal of getting three in a row.
